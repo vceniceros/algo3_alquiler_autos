@@ -1,3 +1,4 @@
+IMPORTANTE: Leer [Versión de herramientas](#versión-de-herramientas)
 # Alquiler de autos (abreviado)
 
 Se pretende desarrollar una aplicación que permita calcular los precios de alquiler de una empresa de alquiler de vehículos. Cada vehículo se identifica unívocamente por medio de su patente.
@@ -15,8 +16,11 @@ Se pide calcular el valor de alquiler para los siguientes casos:
 1. Un cliente alquila un BMW con 5 plazas modelo 2018 2 días.
 2. Cliente alquila un camión con PMA = 1000 unos 10 días.
 
+## Versión de herramientas
 
-
-
-
+| Herramienta | Version |
+|-------------|---------|
+| mvn         | 3.6.3   |
+| java        | 11.0.7  |
+| IntelliJ    | 2019.3  |
 
